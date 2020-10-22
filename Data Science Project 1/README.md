@@ -8,7 +8,7 @@ Apurv Mittal
 The project entails an EDA abd Data Analysis for a beer and breweries dataset.  
 
 ## Folders
-Data -> Data folder has the raw datasets
+Data -> Data folder has the raw datasets. 
 Deliverables -> Deliverables folder has the .RMD file, Presentation (Keynote format) and the Knit(HTML) file.
 
 
