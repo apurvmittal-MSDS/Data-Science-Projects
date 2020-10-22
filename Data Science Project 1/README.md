@@ -16,8 +16,9 @@ Deliverables -> Deliverables folder has the .RMD file, Presentation (Keynote for
 
 
 ## Videos links  
-David - https://www.youtube.com/watch?v=UuRlddgWVJA&feature=youtu.be  
-Apurv - https://www.youtube.com/watch?v=G7bpVELEXts&feature=youtu.be
 
+Apurv Mittal - https://www.youtube.com/watch?v=G7bpVELEXts&feature=youtu.be
+
+David Grijalva - https://www.youtube.com/watch?v=UuRlddgWVJA&feature=youtu.be  
 
  
